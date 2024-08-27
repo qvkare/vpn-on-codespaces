@@ -1,4 +1,4 @@
-# Setting Up Tailscale VPN on GitHub Codespaces
+# Setting Up Tailscale VPN on GitHub Codespaces #
 
 This guide will walk you through the process of setting up a Tailscale VPN within a GitHub Codespace using **this specific repository**. It covers everything from forking the repository to configuring your Codespace with Tailscale.
 
